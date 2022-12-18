@@ -8,4 +8,4 @@ El constructor tiene 3 propiedades:
 ### Implementación
 Pa aimplementar este widget hay que crear un hijo de tipo widget donde se crea el widget AnimatedAlign. En el constructor ponemos las propiedades antes comentadas. Una vez añadidas las 3, se pueden añadir más para hacerlo a tu gusto. En el ejemplo se ha añadido una imagen que es el que se moverá, el color de fonod, se ha añadido un icono...
 
-Enlace al proyecto
+Enlace al [proyecto](https://github.com/iarratirol/widget_AnimatedAlign.git "proyecto")
